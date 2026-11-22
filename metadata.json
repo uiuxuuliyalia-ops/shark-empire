@@ -1,0 +1,6 @@
+{
+  "name": "Shark Empire — Legendary",
+  "description": "Эпический подводный экшен-аркада: эволюция морского хищника, охота, битвы с боссами и глубоководные приключения.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
